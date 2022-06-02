@@ -1,5 +1,5 @@
 - Hi, I’m @mieukie
-- miuekie.github.io
+- mieuekie.github.io
 
 <!---
 mieukie/mieukie is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
