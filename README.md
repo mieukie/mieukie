@@ -1,4 +1,4 @@
-- Hi, I’m @mieukie
+- Hi, I’m @mieukie :D
 - mieukie.github.io
 
 <!---
